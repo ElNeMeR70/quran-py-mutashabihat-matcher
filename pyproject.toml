@@ -1,0 +1,7 @@
+[project]
+name = "quran-py-mutashabihat-matcher"
+version = "1.0.0"
+description = "Quranic Mutashabihat Verbal Similarity N-Gram Engine (كاشف المتشابهات اللفظية في القرآن الكريم)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
